@@ -90,10 +90,9 @@ export const App = () => {
           Кредит наличными
         </Typography.TitleResponsive>
         <Typography.TitleResponsive tag="h1" view="small" font="system" weight="semibold">
-          На повседневные траты
+          Проще, чем занимать у близких
         </Typography.TitleResponsive>
-        <Typography.Text view="primary-medium">Получите деньги на самое нужное</Typography.Text>
-        <Typography.Text view="primary-medium">Онлайн, не выходя из дома</Typography.Text>
+        <Typography.Text view="primary-medium">На любые цели без лишних вопросов</Typography.Text>
         <div>
           <Typography.Text view="primary-medium" weight="medium">
             Сумма и срок кредита
